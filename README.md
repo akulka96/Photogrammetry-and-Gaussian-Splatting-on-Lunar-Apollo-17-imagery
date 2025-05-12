@@ -1,4 +1,7 @@
 # Photogrammetry and Gaussian Splatting using Apollo 17 Imagery
+## Atharv Rahul Kulkarni
+### RAS/SES 598 : Space Robotics & AI
+### ASU ID: 1233494108
 
 ## Abstract
 
